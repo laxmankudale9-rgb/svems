@@ -7,61 +7,62 @@
   <!-- ══════════════════════════════════════════════════════
        SVEMS — Swami Vivekananda English Medium School
        Jeur Patoda, Tal. Kopargaon, Dist. Ahilyanagar
-       Sitemap updated: 2026-03-19
+       https://laxmankudale9-rgb.github.io/svems
+       Sitemap updated: 2026-03-20
   ══════════════════════════════════════════════════════ -->
 
   <!-- HOME -->
   <url>
-    <loc>https://svems-jeurpatoda.edu.in/</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>https://laxmankudale9-rgb.github.io/svems/</loc>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- ADMISSION FORM -->
   <url>
-    <loc>https://svems-jeurpatoda.edu.in/#admission</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>https://laxmankudale9-rgb.github.io/svems/#admission</loc>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
 
   <!-- TAPASYA IAS PROGRAMME -->
   <url>
-    <loc>https://svems-jeurpatoda.edu.in/#tapasya</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>https://laxmankudale9-rgb.github.io/svems/#tapasya</loc>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.90</priority>
   </url>
 
   <!-- AI PROGRAMME -->
   <url>
-    <loc>https://svems-jeurpatoda.edu.in/#ai</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>https://laxmankudale9-rgb.github.io/svems/#ai</loc>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <!-- FEE STRUCTURE -->
   <url>
-    <loc>https://svems-jeurpatoda.edu.in/#fees</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>https://laxmankudale9-rgb.github.io/svems/#fees</loc>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <!-- PHOTO GALLERY -->
   <url>
-    <loc>https://svems-jeurpatoda.edu.in/#gallery</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>https://laxmankudale9-rgb.github.io/svems/#gallery</loc>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
 
   <!-- CONTACT -->
   <url>
-    <loc>https://svems-jeurpatoda.edu.in/#contact</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>https://laxmankudale9-rgb.github.io/svems/#contact</loc>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
