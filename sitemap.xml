@@ -4,67 +4,44 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <!-- ══════════════════════════════════════════════════════
-       SVEMS — Swami Vivekananda English Medium School
-       Jeur Patoda, Tal. Kopargaon, Dist. Ahilyanagar
-       https://laxmankudale9-rgb.github.io/svems
-       Sitemap updated: 2026-03-20
-  ══════════════════════════════════════════════════════ -->
-
-  <!-- HOME -->
+  <!-- ═══ MAIN PAGE ═══ -->
   <url>
     <loc>https://laxmankudale9-rgb.github.io/svems/</loc>
-    <lastmod>2026-03-20</lastmod>
+    <lastmod>2026-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- ADMISSION FORM -->
+  <!-- ═══ ADMISSION FORM (index.html) ═══ -->
   <url>
-    <loc>https://laxmankudale9-rgb.github.io/svems/#admission</loc>
-    <lastmod>2026-03-20</lastmod>
+    <loc>https://laxmankudale9-rgb.github.io/svems/index.html</loc>
+    <lastmod>2026-04-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.9</priority>
   </url>
 
-  <!-- TAPASYA IAS PROGRAMME -->
+  <!-- ═══ FEES PAGE (anchor section) ═══ -->
   <url>
-    <loc>https://laxmankudale9-rgb.github.io/svems/#tapasya</loc>
-    <lastmod>2026-03-20</lastmod>
+    <loc>https://laxmankudale9-rgb.github.io/svems/#pageFees</loc>
+    <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.90</priority>
+    <priority>0.8</priority>
   </url>
 
-  <!-- AI PROGRAMME -->
+  <!-- ═══ ADMISSIONS SECTION ═══ -->
   <url>
-    <loc>https://laxmankudale9-rgb.github.io/svems/#ai</loc>
-    <lastmod>2026-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <!-- FEE STRUCTURE -->
-  <url>
-    <loc>https://laxmankudale9-rgb.github.io/svems/#fees</loc>
-    <lastmod>2026-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <!-- PHOTO GALLERY -->
-  <url>
-    <loc>https://laxmankudale9-rgb.github.io/svems/#gallery</loc>
-    <lastmod>2026-03-20</lastmod>
+    <loc>https://laxmankudale9-rgb.github.io/svems/#pageAdmission</loc>
+    <lastmod>2026-04-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
+    <priority>0.8</priority>
   </url>
 
-  <!-- CONTACT -->
+  <!-- ═══ STUDY MATERIAL PORTAL ═══ -->
   <url>
-    <loc>https://laxmankudale9-rgb.github.io/svems/#contact</loc>
-    <lastmod>2026-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.70</priority>
+    <loc>https://laxmankudale9-rgb.github.io/svems/#pageStudy</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 
 </urlset>

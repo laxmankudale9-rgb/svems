@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laxmankudale9-rgb.github.io/svems/sitemap.xml
